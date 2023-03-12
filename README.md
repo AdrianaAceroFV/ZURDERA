@@ -4,5 +4,5 @@
  
  ---
  <p align="center">
- ![imagen](https://raw.githubusercontent.com/AdrianaAceroFV/ZURDERA/main/Imagenes/Left-Handed.jpg)
+  ![imagen](https://raw.githubusercontent.com/AdrianaAceroFV/ZURDERA/main/Imagenes/Left-Handed.jpg)
  </p>
